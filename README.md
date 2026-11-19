@@ -9,12 +9,25 @@ Built around an **RP2040-Zero** microcontroller. Takes 6 SMA coaxial sensor inpu
 ## Requirements
 
 - [KiCad](https://www.kicad.org/) 10.0+
+- [NeuroACT-KiCad-libraries](https://github.com/NeuroACT-NCBS/NeuroACT-KiCad-libraries), installed as global libraries (see below)
 
-- The [NeuroACT-KiCad-libraries](https://github.com/NeuroACT-NCBS/NeuroACT-KiCad-libraries), installed as global libraries with the `NEUROACT_LIBS` path variable set (see that repository's README)
+## Setup
+
+Clone this repository and the library repository:
 
 ```bash
 git clone https://github.com/NeuroACT-NCBS/ECU-Interface-PCB.git
+git clone https://github.com/NeuroACT-NCBS/NeuroACT-KiCad-libraries.git
 ```
+
+Then add the library to KiCad as a global library:
+
+1. In KiCad, open **Preferences → Manage Symbol Libraries**, choose the **Global Libraries** tab, and add `NeuroACT.kicad_sym` from the library clone with the nickname `NeuroACT`.
+2. Open **Preferences → Manage Footprint Libraries**, choose the **Global Libraries** tab, and add the `NeuroACT.pretty` folder from the library clone with the nickname `NeuroACT`.
+3. Open **Preferences → Configure Paths** and add a variable named `NEUROACT_LIBS` set to the library clone folder (the one containing `3D models/`). It is used to load the 3D models.
+4. Restart KiCad and open `ECU-Interface-PCB.kicad_pro`.
+
+See the [library README](https://github.com/NeuroACT-NCBS/NeuroACT-KiCad-libraries#installation-as-a-global-library) for details and for editing the global library tables directly.
 
 ## KiCad Plugins
 
