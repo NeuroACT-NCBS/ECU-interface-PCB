@@ -19738,7 +19738,7 @@
 			(uuid "1e0b0429-8f45-4584-b2c6-2c53e52f26c7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/TMC2209_SILENTSTEPSTICK.step"
+		(model "${NEUROACT_LIBS}/3D models/TMC2209_SILENTSTEPSTICK.step"
 			(offset
 				(xyz 0 0 8.5)
 			)
@@ -31138,7 +31138,7 @@
 			(uuid "12c52e91-1550-41ef-abb8-0d8687f218bd")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/0026013114.stp"
+		(model "${NEUROACT_LIBS}/3D models/0026013114.stp"
 			(offset
 				(xyz 0 14 0)
 			)
@@ -38576,7 +38576,7 @@
 			(uuid "566fe7e1-a616-4389-bcf5-ea656f18da35")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/0026013114.stp"
+		(model "${NEUROACT_LIBS}/3D models/0026013114.stp"
 			(offset
 				(xyz 0 14 0)
 			)
@@ -51520,7 +51520,7 @@
 			(uuid "5e079c7f-601f-46b7-96cd-2c15f5b83269")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/FUSE_RUEF500_LTF.step"
+		(model "${NEUROACT_LIBS}/3D models/FUSE_RUEF500_LTF.step"
 			(offset
 				(xyz -7.5 0 2)
 			)
@@ -54511,7 +54511,7 @@
 			(uuid "446a2e7f-91a4-467d-8330-a507e22a5018")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/0026013114.stp"
+		(model "${NEUROACT_LIBS}/3D models/0026013114.stp"
 			(offset
 				(xyz 0 14 0)
 			)
@@ -61233,7 +61233,7 @@
 			(uuid "57d39566-93a8-464e-b87a-943bc4da64da")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/FUSE_RUEF500_LTF.step"
+		(model "${NEUROACT_LIBS}/3D models/FUSE_RUEF500_LTF.step"
 			(offset
 				(xyz -7.5 0 2)
 			)
@@ -81220,7 +81220,7 @@
 			(uuid "903fedb6-6787-456c-8f3f-956dfb43b7f8")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/TMC2209_SILENTSTEPSTICK.step"
+		(model "${NEUROACT_LIBS}/3D models/TMC2209_SILENTSTEPSTICK.step"
 			(offset
 				(xyz 0 0 8.5)
 			)
@@ -83801,7 +83801,7 @@
 			(uuid "2f956d83-1fff-463a-bdf3-a6bd4cb27319")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/RP2040_Zero.step"
+		(model "${NEUROACT_LIBS}/3D models/RP2040_Zero.step"
 			(offset
 				(xyz 0 0.6 0)
 			)
@@ -95521,7 +95521,7 @@
 			(uuid "588d400f-4c9a-4694-849b-5eddfd05cccd")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/TMC2209_SILENTSTEPSTICK.step"
+		(model "${NEUROACT_LIBS}/3D models/TMC2209_SILENTSTEPSTICK.step"
 			(offset
 				(xyz 0 0 8.5)
 			)
@@ -102006,7 +102006,7 @@
 			(uuid "323d3602-da42-4cb9-b774-06080d691163")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/3D models/TMC2209_SILENTSTEPSTICK.step"
+		(model "${NEUROACT_LIBS}/3D models/TMC2209_SILENTSTEPSTICK.step"
 			(offset
 				(xyz 0 0 8.5)
 			)
