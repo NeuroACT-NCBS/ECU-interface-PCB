@@ -13,7 +13,7 @@ Built around an **RP2040-Zero** microcontroller. Takes 6 SMA coaxial sensor inpu
 Clone with `--recurse-submodules` to pull the [NeuroACT-KiCad-libraries](https://github.com/NeuroACT-NCBS/NeuroACT-KiCad-libraries) automatically:
 
 ```bash
-git clone --recurse-submodules https://github.com/NeuroACT-NCBS/SMA-interface-pcb.git
+git clone --recurse-submodules https://github.com/NeuroACT-NCBS/ECU-Interface-PCB.git
 ```
 
 ## KiCad Plugins

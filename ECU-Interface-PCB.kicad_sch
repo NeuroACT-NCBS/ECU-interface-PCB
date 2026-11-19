@@ -8558,7 +8558,7 @@
 			(uuid "d5552647-4f99-4f49-943c-17ebc3fdb265")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR023")
 					(unit 1)
@@ -8661,7 +8661,7 @@
 			(uuid "301bab06-437e-48c3-8932-3b61ad83ace1")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R8")
 					(unit 1)
@@ -8740,7 +8740,7 @@
 			(uuid "dccdb45e-7199-452a-994a-2a4f596ba083")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#FLG04")
 					(unit 1)
@@ -8843,7 +8843,7 @@
 			(uuid "356d2629-5637-4fbc-abc0-606244ee76b9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C9")
 					(unit 1)
@@ -8922,7 +8922,7 @@
 			(uuid "03f54bc0-f5db-42e5-a391-898925bd7914")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR035")
 					(unit 1)
@@ -9025,7 +9025,7 @@
 			(uuid "144832b7-8fc1-4f41-ad69-f9c36c05b4d8")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R16")
 					(unit 1)
@@ -9129,7 +9129,7 @@
 			(uuid "5d62b596-bf1a-4393-b682-18260d7439ec")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R26")
 					(unit 1)
@@ -9206,7 +9206,7 @@
 			(uuid "1fea5466-817d-476d-9b0f-003600b5b03d")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR031")
 					(unit 1)
@@ -9309,7 +9309,7 @@
 			(uuid "9e750936-7cfb-409a-9ceb-c9cf70a998b7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R6")
 					(unit 1)
@@ -9413,7 +9413,7 @@
 			(uuid "ca4bbb9b-d865-4e25-af55-13d45a191574")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J1")
 					(unit 1)
@@ -9516,7 +9516,7 @@
 			(uuid "4a479cc1-8cfb-467a-ad97-3f3996268425")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C5")
 					(unit 1)
@@ -9621,7 +9621,7 @@
 			(uuid "f09fec33-1ffa-43c0-a2b3-3b0cac1e2eb8")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J7")
 					(unit 1)
@@ -9700,7 +9700,7 @@
 			(uuid "89bf109e-5431-42b4-b550-475102de1ac9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR043")
 					(unit 1)
@@ -9803,7 +9803,7 @@
 			(uuid "4fd166fc-8682-46e4-8d9a-c4b00c715ebd")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R15")
 					(unit 1)
@@ -9881,7 +9881,7 @@
 			(uuid "3d3f069f-433a-435d-b3ed-268d2e8ee4ce")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR025")
 					(unit 1)
@@ -9960,7 +9960,7 @@
 			(uuid "21120ad4-3750-43ee-90f8-92e85f769550")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR08")
 					(unit 1)
@@ -10039,7 +10039,7 @@
 			(uuid "6002abf4-50af-4bc1-a19d-98deecbe214c")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR034")
 					(unit 1)
@@ -10181,7 +10181,7 @@
 			(uuid "4d9adb5c-3fa2-4a07-bf63-d08d26a718e4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q4")
 					(unit 1)
@@ -10284,7 +10284,7 @@
 			(uuid "01f6fe4c-7fa2-4b69-9a86-9d445885ddcb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R14")
 					(unit 1)
@@ -10426,7 +10426,7 @@
 			(uuid "2a261910-d5fb-4d9d-a280-a6720ad4a6c1")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q3")
 					(unit 1)
@@ -10505,7 +10505,7 @@
 			(uuid "28958b22-7999-44c5-a5b9-f30967bb9047")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR024")
 					(unit 1)
@@ -10583,7 +10583,7 @@
 			(uuid "ad426ebf-4750-4962-a5bc-98879aede881")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR01")
 					(unit 1)
@@ -10661,7 +10661,7 @@
 			(uuid "efd9bae1-018a-49f5-af4c-b72d4bf68de6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR040")
 					(unit 1)
@@ -10740,7 +10740,7 @@
 			(uuid "d5b4ca3a-3232-44cb-83cd-9a89bdb41f40")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR038")
 					(unit 1)
@@ -11023,7 +11023,7 @@
 			(uuid "91009128-8fa9-439c-949d-4859814b5344")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U2")
 					(unit 1)
@@ -11101,7 +11101,7 @@
 			(uuid "860c8c3a-2cc8-4cc4-bfb1-8feaeac23b07")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR041")
 					(unit 1)
@@ -11226,7 +11226,7 @@
 			(uuid "f00e29aa-d202-4caa-b339-28a8d05677e4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J12")
 					(unit 1)
@@ -11304,7 +11304,7 @@
 			(uuid "f5f2d3fa-4025-4ca4-a93a-1cf241e375cd")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR018")
 					(unit 1)
@@ -11383,7 +11383,7 @@
 			(uuid "ca9509c2-31ee-49fb-8b79-a98cb5333e8e")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR017")
 					(unit 1)
@@ -11484,7 +11484,7 @@
 			(uuid "615406d2-5884-4672-9427-4e78b593a0ad")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C16")
 					(unit 1)
@@ -11587,7 +11587,7 @@
 			(uuid "1942e83e-7bb1-4058-a11f-da203f6a62e8")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C2")
 					(unit 1)
@@ -11690,7 +11690,7 @@
 			(uuid "507fee4a-58bb-4b88-a294-7807930a47eb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C1")
 					(unit 1)
@@ -11791,7 +11791,7 @@
 			(uuid "2c254ff5-3b11-4784-8e69-0259328c8eba")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R20")
 					(unit 1)
@@ -11928,7 +11928,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658904")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 7)
@@ -12029,7 +12029,7 @@
 			(uuid "7f80103d-726d-437f-ab74-838906902889")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R10")
 					(unit 1)
@@ -12312,7 +12312,7 @@
 			(uuid "82a471a3-557f-48a0-b588-13feaf515bb1")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U3")
 					(unit 1)
@@ -12413,7 +12413,7 @@
 			(uuid "10781aa0-2061-4e72-a7f2-1cc5b2a4c673")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R24")
 					(unit 1)
@@ -12514,7 +12514,7 @@
 			(uuid "32e8295e-5a66-47b4-9d67-2659995d9491")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R4")
 					(unit 1)
@@ -12627,7 +12627,7 @@
 			(uuid "8f977585-6112-437d-88f5-ab0f7403ea8e")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J16")
 					(unit 1)
@@ -12765,7 +12765,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658905")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 6)
@@ -12843,7 +12843,7 @@
 			(uuid "98a96c19-c872-4301-98a7-0e9c3e012a45")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR049")
 					(unit 1)
@@ -12967,7 +12967,7 @@
 			(uuid "f00e29aa-d202-4caa-b339-28a8d05677e5")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J15")
 					(unit 1)
@@ -13109,7 +13109,7 @@
 			(uuid "e134092c-6580-41f1-b5a9-99a61480fe40")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q2")
 					(unit 1)
@@ -13188,7 +13188,7 @@
 			(uuid "632429e5-da08-4533-b8c5-4711d1d1b579")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR042")
 					(unit 1)
@@ -13267,7 +13267,7 @@
 			(uuid "c5f6dda1-7f18-4d86-8081-38c5b7a07524")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR022")
 					(unit 1)
@@ -13405,7 +13405,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658906")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 2)
@@ -13510,7 +13510,7 @@
 			(uuid "b955de2b-5a58-4e9a-a8b9-f83cb9d641a9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J9")
 					(unit 1)
@@ -13588,7 +13588,7 @@
 			(uuid "5d675c04-ee44-499e-bb14-01c6cf7951f5")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR04")
 					(unit 1)
@@ -13692,7 +13692,7 @@
 			(uuid "656547c4-87c7-41c3-b3fb-099e888e0a59")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R22")
 					(unit 1)
@@ -13795,7 +13795,7 @@
 			(uuid "403dc178-1b1f-4cd7-a56f-9f67782cdde7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C10")
 					(unit 1)
@@ -13897,7 +13897,7 @@
 			(uuid "db19a643-8668-4f7d-a692-d8394e4d649b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "D2")
 					(unit 1)
@@ -13976,7 +13976,7 @@
 			(uuid "f2ad1375-8cac-48e3-93da-4f3347783fa6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR015")
 					(unit 1)
@@ -14079,7 +14079,7 @@
 			(uuid "15c6ad79-e184-4994-a56e-9a3c03211bd0")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R7")
 					(unit 1)
@@ -14217,7 +14217,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658907")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 4)
@@ -14321,7 +14321,7 @@
 			(uuid "33d17d1b-8b1f-4d92-8693-a94999084357")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J3")
 					(unit 1)
@@ -14431,7 +14431,7 @@
 			(uuid "c7a62065-571f-43b9-bdbb-0e20d1cc62cc")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J10")
 					(unit 1)
@@ -14569,7 +14569,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658908")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 3)
@@ -14670,7 +14670,7 @@
 			(uuid "efd7a7ce-56a3-42b4-b24f-19aff56423d8")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R9")
 					(unit 1)
@@ -14749,7 +14749,7 @@
 			(uuid "3385d03e-9db1-4d0c-8b86-acf07a5921bd")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#FLG03")
 					(unit 1)
@@ -14851,7 +14851,7 @@
 			(uuid "71f370ee-cca7-4e88-815c-0fd71da40682")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H3")
 					(unit 1)
@@ -14953,7 +14953,7 @@
 			(uuid "325161e5-c00f-4c3e-abb9-1029adbd2c80")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H2")
 					(unit 1)
@@ -15095,7 +15095,7 @@
 			(uuid "671b65ba-1326-4557-8528-8aa683b21064")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q5")
 					(unit 1)
@@ -15174,7 +15174,7 @@
 			(uuid "b9f4f679-5b9e-4656-9a66-83b703869af0")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR047")
 					(unit 1)
@@ -15278,7 +15278,7 @@
 			(uuid "753c3d31-b8dd-4d60-bb8a-b6bdff2e4d11")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "F2")
 					(unit 1)
@@ -15416,7 +15416,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a99658909")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 5)
@@ -15517,7 +15517,7 @@
 			(uuid "69f1f83c-cc2f-42bd-a349-0437d810b0d0")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R25")
 					(unit 1)
@@ -15595,7 +15595,7 @@
 			(uuid "63dc5e7e-d369-4e60-8e80-ef281552f559")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR028")
 					(unit 1)
@@ -15673,7 +15673,7 @@
 			(uuid "9a0758b0-eae7-4e2c-8e12-3030ac31bac3")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR012")
 					(unit 1)
@@ -15774,7 +15774,7 @@
 			(uuid "52a91efb-69f9-4b73-bc17-316c29c13051")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R11")
 					(unit 1)
@@ -15875,7 +15875,7 @@
 			(uuid "f064b60e-734e-4d3c-888c-9b4d08ec6378")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R2")
 					(unit 1)
@@ -15953,7 +15953,7 @@
 			(uuid "a2e8d63d-f67e-4256-adac-2183edeafdd4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR026")
 					(unit 1)
@@ -16095,7 +16095,7 @@
 			(uuid "95cf7bbf-f14a-4e8d-ab0d-e423823647ab")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q7")
 					(unit 1)
@@ -16173,7 +16173,7 @@
 			(uuid "e9257bf8-307c-47ef-a7e4-2b4450dc28a2")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR013")
 					(unit 1)
@@ -16277,7 +16277,7 @@
 			(uuid "9fd49a0d-2441-44aa-87de-2cd615e92771")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R28")
 					(unit 1)
@@ -16380,7 +16380,7 @@
 			(uuid "5092831d-ad10-444a-9259-dc69a475808d")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C7")
 					(unit 1)
@@ -16485,7 +16485,7 @@
 			(uuid "8878960f-dd2d-4dcc-84a5-893812c70b59")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J14")
 					(unit 1)
@@ -16564,7 +16564,7 @@
 			(uuid "3a3e8af5-1277-4204-a527-0b7ed39a236f")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR050")
 					(unit 1)
@@ -16642,7 +16642,7 @@
 			(uuid "166812dd-4036-43ba-afd1-5ceeda3abd44")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR05")
 					(unit 1)
@@ -16746,7 +16746,7 @@
 			(uuid "5495cabf-1b69-4db0-a072-2d4cab1b86c0")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R17")
 					(unit 1)
@@ -16856,7 +16856,7 @@
 			(uuid "83484690-a197-4222-afdc-ec9702900fc2")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J5")
 					(unit 1)
@@ -16934,7 +16934,7 @@
 			(uuid "64261d48-6514-4f37-a7c7-6338e8d47e52")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR010")
 					(unit 1)
@@ -17217,7 +17217,7 @@
 			(uuid "70dc3545-fec2-4745-9ffe-95f7921a8585")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U5")
 					(unit 1)
@@ -17295,7 +17295,7 @@
 			(uuid "bddd8bff-60da-4ea1-8fe2-791c2f099a72")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR033")
 					(unit 1)
@@ -17410,7 +17410,7 @@
 			(uuid "c32681d9-ad32-4931-8041-2e4057dcb3a9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U4")
 					(unit 1)
@@ -17511,7 +17511,7 @@
 			(uuid "c4711518-7f31-49dd-8c77-00e686bdbd37")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R12")
 					(unit 1)
@@ -17615,7 +17615,7 @@
 			(uuid "743ff250-623a-4360-a312-edb6146d853c")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R23")
 					(unit 1)
@@ -17694,7 +17694,7 @@
 			(uuid "11cd6e3a-09ae-4308-94bb-f62acef346fb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR046")
 					(unit 1)
@@ -17799,7 +17799,7 @@
 			(uuid "ad1819a8-241f-4880-8f55-bee3bd8febfa")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "JP2")
 					(unit 1)
@@ -17878,7 +17878,7 @@
 			(uuid "7b701ad7-45ba-4128-bc1b-c5c9e38b94f7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR030")
 					(unit 1)
@@ -17981,7 +17981,7 @@
 			(uuid "48f6ab2e-72cf-4ac7-9ec8-f9c568fea260")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R27")
 					(unit 1)
@@ -18060,7 +18060,7 @@
 			(uuid "e97acf17-bf1d-4a7b-b1c9-0869e73f060c")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#FLG01")
 					(unit 1)
@@ -18138,7 +18138,7 @@
 			(uuid "a4e86c28-4ffa-41d7-8d0f-cae5fd893635")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR09")
 					(unit 1)
@@ -18217,7 +18217,7 @@
 			(uuid "c99d9b09-6aa8-4d1c-982e-e141554400f6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR039")
 					(unit 1)
@@ -18320,7 +18320,7 @@
 			(uuid "1a20815b-f526-44ae-af21-8e73300b6deb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C6")
 					(unit 1)
@@ -18425,7 +18425,7 @@
 			(uuid "f9fc626b-d212-4633-9920-d1345542f546")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J8")
 					(unit 1)
@@ -18528,7 +18528,7 @@
 			(uuid "b6f83ca0-4ebd-4d5a-beed-bd17e59fa8f9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C8")
 					(unit 1)
@@ -18633,7 +18633,7 @@
 			(uuid "baceac83-c1c2-45db-bcd0-2f4e333fedcb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J13")
 					(unit 1)
@@ -18736,7 +18736,7 @@
 			(uuid "eb77ee45-bc5e-475c-bcec-c84cf13b9031")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R13")
 					(unit 1)
@@ -18839,7 +18839,7 @@
 			(uuid "ead4afa4-0f10-45a3-b18d-108631500d8a")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R5")
 					(unit 1)
@@ -18943,7 +18943,7 @@
 			(uuid "39ca5203-42d4-4ea0-bc30-d8d5c740cea4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R19")
 					(unit 1)
@@ -19047,7 +19047,7 @@
 			(uuid "279fb878-e677-4a0c-b55c-4dcbd0cd752e")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J2")
 					(unit 1)
@@ -19125,7 +19125,7 @@
 			(uuid "e3b1ee30-c3e1-439d-838d-3e765ffbe863")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR03")
 					(unit 1)
@@ -19203,7 +19203,7 @@
 			(uuid "17970b57-c0a9-4b4d-aaea-4d38e1e359a7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR032")
 					(unit 1)
@@ -19282,7 +19282,7 @@
 			(uuid "92b8c57e-8d32-4148-8c23-c40d4105825b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR014")
 					(unit 1)
@@ -19386,7 +19386,7 @@
 			(uuid "6736b364-d6e3-4684-86e7-6d132fe7cc59")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "L1")
 					(unit 1)
@@ -19465,7 +19465,7 @@
 			(uuid "a5122752-d333-4090-84b8-3cbb0e82ba0d")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR029")
 					(unit 1)
@@ -19544,7 +19544,7 @@
 			(uuid "543d3dca-215b-403f-b933-81db97f509af")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR020")
 					(unit 1)
@@ -19622,7 +19622,7 @@
 			(uuid "ff3c0d30-b10b-4905-8084-ac1036182f38")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR044")
 					(unit 1)
@@ -19723,7 +19723,7 @@
 			(uuid "0ebc7fd9-420d-4843-9c97-0669db71c08b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R3")
 					(unit 1)
@@ -19865,7 +19865,7 @@
 			(uuid "c1eaf277-1002-4b5d-813d-0f1736f5055b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q6")
 					(unit 1)
@@ -19968,7 +19968,7 @@
 			(uuid "110a0c0a-6205-4aae-bd17-c489fde8cc06")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C4")
 					(unit 1)
@@ -20046,7 +20046,7 @@
 			(uuid "a5aaeb79-0082-403d-ab5c-24907e5212b6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR048")
 					(unit 1)
@@ -20151,7 +20151,7 @@
 			(uuid "5943e6d3-afdb-4232-a47b-03b033becbc6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "JP1")
 					(unit 1)
@@ -20252,7 +20252,7 @@
 			(uuid "3c84b9dc-fe3f-46fd-9b03-50437af77c7d")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R21")
 					(unit 1)
@@ -20330,7 +20330,7 @@
 			(uuid "c22d698a-e4ed-4747-8f16-9127c57ee01b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR019")
 					(unit 1)
@@ -20432,7 +20432,7 @@
 			(uuid "b3d71409-d038-4e20-a4b9-61dced4da04f")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "D1")
 					(unit 1)
@@ -20511,7 +20511,7 @@
 			(uuid "eed64539-6f82-4f2e-b3de-2a35c5f8cbfb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR037")
 					(unit 1)
@@ -20653,7 +20653,7 @@
 			(uuid "8e1e8c89-be2b-445c-a38e-01ecb8e4a7f1")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q8")
 					(unit 1)
@@ -20936,7 +20936,7 @@
 			(uuid "31c6b242-3ab9-45ca-afd1-ef4dd4661c38")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U6")
 					(unit 1)
@@ -21038,7 +21038,7 @@
 			(uuid "a682e0f1-aa48-492d-8d45-84781d0677d9")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H1")
 					(unit 1)
@@ -21141,7 +21141,7 @@
 			(uuid "3dbf2155-050a-454e-a204-8680d1d438eb")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C13")
 					(unit 1)
@@ -21219,7 +21219,7 @@
 			(uuid "09246b61-2ea4-419a-9350-77943f0c99bc")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR07")
 					(unit 1)
@@ -21322,7 +21322,7 @@
 			(uuid "b7495202-63bd-4e65-8000-b84cab0c14c4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C15")
 					(unit 1)
@@ -21401,7 +21401,7 @@
 			(uuid "0a06cb87-7932-43ba-b94a-d06fb94cf46e")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#FLG05")
 					(unit 1)
@@ -21479,7 +21479,7 @@
 			(uuid "7977cae0-e2a7-4c0b-a873-e18fd7dd811f")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR011")
 					(unit 1)
@@ -21583,7 +21583,7 @@
 			(uuid "c3b0477c-2243-46e2-b068-dd2a496d2986")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "F1")
 					(unit 1)
@@ -21661,7 +21661,7 @@
 			(uuid "f5da8da4-3f67-4f8b-a5e1-65d28c531bf3")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR027")
 					(unit 1)
@@ -21740,7 +21740,7 @@
 			(uuid "8810d6ae-d282-49af-b584-e52f838f4ff3")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#FLG02")
 					(unit 1)
@@ -21818,7 +21818,7 @@
 			(uuid "767513dc-a67e-451e-915e-5174bd783674")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR02")
 					(unit 1)
@@ -21896,7 +21896,7 @@
 			(uuid "e0e1e417-5c3c-442f-a9dd-2eac45dfbc80")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR051")
 					(unit 1)
@@ -22034,7 +22034,7 @@
 			(uuid "937f8341-d32e-4760-8c52-231a9965890a")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "U1")
 					(unit 1)
@@ -22135,7 +22135,7 @@
 			(uuid "7e8ac39d-159f-4891-ae36-c43748e93abf")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R18")
 					(unit 1)
@@ -22236,7 +22236,7 @@
 			(uuid "0f499efd-94e5-424a-824e-8fc7eb827d7c")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "R1")
 					(unit 1)
@@ -22403,7 +22403,7 @@
 			(uuid "1783e480-3ad6-4f87-b392-828afcb4b2c1")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "RZ1")
 					(unit 1)
@@ -22513,7 +22513,7 @@
 			(uuid "f2e61d1e-765e-494b-9823-20e89ba2b8ec")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J6")
 					(unit 1)
@@ -22591,7 +22591,7 @@
 			(uuid "f5766f4a-3116-4ff2-97a0-09dfd0e9f703")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR06")
 					(unit 1)
@@ -22670,7 +22670,7 @@
 			(uuid "e7a7efe8-15a8-4162-80fb-91b8fce2badc")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR045")
 					(unit 1)
@@ -22772,7 +22772,7 @@
 			(uuid "02f2efa2-cd3d-426e-b66c-b97b4f734df3")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H4")
 					(unit 1)
@@ -22874,7 +22874,7 @@
 			(uuid "bc53e78a-fc8b-43ae-842d-03a6a762225e")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H6")
 					(unit 1)
@@ -22953,7 +22953,7 @@
 			(uuid "45177736-a97e-4856-a180-654871f431a7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR021")
 					(unit 1)
@@ -23032,7 +23032,7 @@
 			(uuid "39921ce0-6611-416d-8f2d-bdf8ebb8b1b4")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR016")
 					(unit 1)
@@ -23135,7 +23135,7 @@
 			(uuid "0673f4e6-7615-4ef3-866e-3ce8727f5861")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C11")
 					(unit 1)
@@ -23237,7 +23237,7 @@
 			(uuid "56699224-1c5c-40d6-9720-8d4f5955b94b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "H5")
 					(unit 1)
@@ -23379,7 +23379,7 @@
 			(uuid "38985cfa-e865-4674-a8de-32d6a1ba1aa6")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "Q1")
 					(unit 1)
@@ -23484,7 +23484,7 @@
 			(uuid "7892bdff-ee7f-418d-a3ba-dee98b17a0a3")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J4")
 					(unit 1)
@@ -23594,7 +23594,7 @@
 			(uuid "ef2e7c9a-ecad-4b5a-9902-afd77d0dd869")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "J11")
 					(unit 1)
@@ -23697,7 +23697,7 @@
 			(uuid "7d70b280-a3e0-44f7-b8cb-10ac1c06c704")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C12")
 					(unit 1)
@@ -23776,7 +23776,7 @@
 			(uuid "3af05c5a-32b2-4fd4-82f1-69876d3a94e7")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "#PWR036")
 					(unit 1)
@@ -23879,7 +23879,7 @@
 			(uuid "46b187a0-9fa2-474d-a4e7-23c964155a5b")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C3")
 					(unit 1)
@@ -23982,7 +23982,7 @@
 			(uuid "da49d8f4-6532-4ab3-a979-d3d0a19eab97")
 		)
 		(instances
-			(project "SMA-interface-pcb"
+			(project "ECU-Interface-PCB"
 				(path "/1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
 					(reference "C14")
 					(unit 1)

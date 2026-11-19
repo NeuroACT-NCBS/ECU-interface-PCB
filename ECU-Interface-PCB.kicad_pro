@@ -513,7 +513,7 @@
     ]
   },
   "meta": {
-    "filename": "SMA-interface-pcb.kicad_pro",
+    "filename": "ECU-Interface-PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -813,8 +813,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SMA-interface-pcb.kicad_sch",
-        "name": "SMA-interface-pcb",
+        "filename": "ECU-Interface-PCB.kicad_sch",
+        "name": "ECU-Interface-PCB",
         "uuid": "1b692b7f-b8ae-49aa-8b51-104b8775e5cf"
       }
     ],
@@ -824,7 +824,7 @@
   "sheets": [
     [
       "1b692b7f-b8ae-49aa-8b51-104b8775e5cf",
-      "SMA-interface-pcb"
+      "ECU-Interface-PCB"
     ]
   ],
   "text_variables": {},
